@@ -24,7 +24,7 @@ import org.jdom.output.XMLOutputter;
 public class VersionerTask extends Task {
 
     protected File cvsVersionFile = null;
-    protected int version = 1111;
+    protected int version = 4137;
     protected File pomFile = null;
     protected File toVersion = null;
     protected boolean incrementCVSVersion = false;
